@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Simple Calculator
 echo "Enter Principal:"
 read p
 
